@@ -2028,4 +2028,7 @@
         been identified for them as running). [CHAR LIMIT=NONE] -->
     <string name="running_foreground_services_msg">Tap for details on battery and data usage</string>
 
+    <!-- Indication on the keyguard that is shown when the device is charging with a Huawei QuickCharge AC. Should match keyguard_plugged_in_quick_charging [CHAR LIMIT=40]-->
+    <string name="keyguard_indication_quick_charging_time">Quick Charging (<xliff:g id="charging_time_left" example="4 hours and 2 minutes">%s</xliff:g> until full)</string>
+    <string name="keyguard_plugged_in_quick_charging">Quick Charging</string>
 </resources>
